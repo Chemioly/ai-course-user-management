@@ -1,0 +1,4 @@
+test.js
+**/database.js
+node_modules/*
+.env
